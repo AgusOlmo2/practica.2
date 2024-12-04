@@ -1,0 +1,2 @@
+modified y en staging area
+modified y en el repostorio remoto
